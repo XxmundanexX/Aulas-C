@@ -6,9 +6,8 @@ int main(int argc, char const *argv[])
 
   while (numero <= 10)
   {
-    printf("%d", numero);
+    printf("%d ", numero);
     numero++;
   }
   return 0;
 }
- 
