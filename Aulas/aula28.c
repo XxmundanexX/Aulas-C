@@ -2,7 +2,7 @@
 
 #include "stdio.h"
 
-float maior(float num1, float num2);
+float maior(float num1, float num2); //declarar que a função existe antes de criar ela, para evitar erros.
 
 int main(int argc, char const *argv[])
 {
