@@ -23,7 +23,7 @@ int main(int argc, char const *argv[])
   }
   printf("Somatoria: %d\n", soma);
 
-  media = soma/TAM  ;
+  media = soma/TAM;
   printf("Media: %.1f\n", media);
   
   return 0;
